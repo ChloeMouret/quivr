@@ -13,6 +13,7 @@ module.exports = {
     "import/no-unresolved": 0,
     "import/prefer-default-export": 0,
     "import/no-duplicates": "error",
+    "react-hooks/exhaustive-deps": "off",
     complexity: ["error", 8],
     "max-lines": ["error", 100],
     "max-depth": ["error", 3],
